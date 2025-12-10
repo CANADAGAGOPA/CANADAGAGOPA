@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 안녕하세요, 백엔드 개발자 김선욱입니다!
+# 👋 백엔드 개발자 김선욱입니다
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCANADAGAGOPA&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/CANADAGAGOPA)
 
@@ -109,7 +109,7 @@
 
 <div align="center">
 
-### 💬 "좋은 코드는 읽기 쉬운 코드다"
+### 💬 "끊임없는 학습"
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Spring+Boot+Expert;Database+Optimization;RESTful+API+Design;Always+Learning)](https://git.io/typing-svg)
 
