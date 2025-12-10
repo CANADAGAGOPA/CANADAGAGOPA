@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 👋 안녕하세요, 백엔드 개발자 김선욱입니다!
 
@@ -105,4 +105,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Spring+Boot+Expert;Database+Optimization;RESTful+API+Design;Always+Learning)](https://git.io/typing-svg)
 
-</div>]]>
+</div>
