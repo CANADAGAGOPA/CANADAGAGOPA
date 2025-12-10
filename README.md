@@ -8,59 +8,68 @@
 
 ## 🚀 About Me
 
-**Java & Spring Boot 기반 백엔드 개발자**로, 대규모 시스템 설계와 성능 최적화에 관심이 많습니다.
+**Java & Spring Boot 기반 백엔드 개발자**로, 안정적이고 확장 가능한 서버 시스템 구축에 집중하고 있습니다.
 
-- 🏢 **MSA 아키텍처** 설계 및 구현 경험 (Eureka, Gateway, Multiple Services)
-- 🔐 **Spring Security + JWT** 기반 인증/인가 시스템 구축
-- 📊 **PostgreSQL, MongoDB, Redis** 등 다양한 데이터베이스 활용
-- ⚡ **성능 최적화**: 인덱싱, 캐싱 전략 적용 경험
-- 🎯 **협업 프로젝트**: ERP/MES 시스템, 이커머스 클론, 소모임 플랫폼 등
+- 💻 **Java & Spring Boot** 기반 RESTful API 설계 및 개발
+- 🏗️ **MSA 아키텍처** 경험 (Eureka, Gateway, Microservices)
+- 🔐 **Spring Security + JWT** 인증/인가 시스템 구현
+- 📊 **다양한 데이터베이스** 활용 및 성능 최적화
+- ⚡ **인덱싱 & 캐싱** 전략을 통한 쿼리 성능 개선
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Backend Framework
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
+### API & Communication
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
 ### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Architecture & Tools
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+### ORM & Persistence
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
+
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 💼 Project Experience
+## 💡 Key Skills
 
-### 🎯 MSA 기반 소모임 플랫폼 "취미하다" (2024)
-**Spharos Academy 4th - 2차 MSA 프로젝트**
-- **역할**: 인증 서비스 & 게시판 서비스 개발
-- **기술**: Spring Boot, Eureka, Gateway, PostgreSQL, MongoDB, Redis, Kafka
-- **주요 기능**:
-  - JWT 기반 인증/인가 시스템
-  - 마이크로서비스 간 비동기 통신 (Kafka)
-  - MongoDB 읽기 전용 서비스로 조회 성능 최적화
+### 🎯 Backend Development
+- **Spring Boot** 기반 RESTful API 설계 및 구현
+- **Spring Data JPA** / **MyBatis**를 활용한 데이터 접근 계층 구축
+- **트랜잭션 관리** 및 예외 처리 전략 수립
 
-### 🏭 ERP & MES 통합 시스템 (2025)
-**아이티윌 1조 협업 프로젝트**
-- **역할**: 백엔드 개발
-- **기술**: Spring Boot, PostgreSQL
-- **주요 기능**: 제조 실행 시스템 연동 및 데이터 관리
+### 🔒 Security & Authentication
+- **Spring Security** 기반 보안 설정
+- **JWT** 토큰 기반 인증/인가 시스템
+- 세션 관리 및 보안 정책 적용
 
-### 🛒 SSG.COM 클론 "NoCaffeine" (2024)
-**Spharos Academy 4th - 1차 협업 프로젝트**
-- **역할**: 백엔드 API 개발
-- **기술**: Spring Boot, PostgreSQL
-- **주요 기능**: 이커머스 핵심 기능 구현
+### 📊 Database Management
+- **MySQL**, **PostgreSQL**, **Oracle** 쿼리 최적화
+- **인덱싱 전략** (B-Tree, TRGM 등) 적용을 통한 성능 개선
+- **Redis** 캐싱을 통한 응답 속도 향상
+- **MongoDB** NoSQL 데이터 모델링
+
+### 🏗️ Architecture
+- **MSA (Microservices Architecture)** 설계 및 구현
+- **Eureka**, **Gateway**를 활용한 서비스 디스커버리
+- **Kafka** 메시지 큐를 통한 비동기 통신
 
 ---
 
@@ -79,8 +88,8 @@
 ## 🌱 Currently Learning
 
 - 🔥 **성능 최적화**: PostgreSQL TRGM 인덱싱, 쿼리 튜닝
-- ☁️ **클라우드**: AWS 배포, Supabase 활용
-- 🐳 **컨테이너**: Docker & Kubernetes
+- ☁️ **클라우드 배포**: AWS, Supabase
+- 🐳 **컨테이너 오케스트레이션**: Docker, Kubernetes
 - 🤖 **AI Integration**: Claude MCP를 활용한 개발 워크플로우
 
 ---
@@ -94,6 +103,6 @@
 
 ### 💬 "좋은 코드는 읽기 쉬운 코드다"
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer;MSA+Architecture;Spring+Boot+Expert;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Spring+Boot+Expert;Database+Optimization;RESTful+API+Design;Always+Learning)](https://git.io/typing-svg)
 
 </div>]]>
