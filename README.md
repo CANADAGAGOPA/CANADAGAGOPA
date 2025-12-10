@@ -12,9 +12,9 @@
 
 - 💻 **Java & Spring Boot** 기반 RESTful API 설계 및 개발
 - 🏗️ **MSA 아키텍처** 경험 (Eureka, Gateway, Microservices)
-- 🔐 **Spring Security + JWT** 인증/인가 시스템 구현
+- 🎨 **Thymeleaf**를 활용한 SSR 방식과 **RESTful API**를 활용한 CSR 방식 구현
+- 🚀 **GitHub Actions, AWS EC2, Docker**를 활용한 CI/CD 인프라 구축
 - 📊 **다양한 데이터베이스** 활용 및 성능 최적화
-- ⚡ **인덱싱 & 캐싱** 전략을 통한 쿼리 성능 개선
 
 ---
 
@@ -30,6 +30,9 @@
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
+### View & Template
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -43,6 +46,8 @@
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -53,23 +58,26 @@
 ### 🎯 Backend Development
 - **Spring Boot** 기반 RESTful API 설계 및 구현
 - **Spring Data JPA** / **MyBatis**를 활용한 데이터 접근 계층 구축
+- **Thymeleaf**를 활용한 SSR 방식 구현
 - **트랜잭션 관리** 및 예외 처리 전략 수립
 
 ### 🔒 Security & Authentication
-- **Spring Security** 기반 보안 설정
 - **JWT** 토큰 기반 인증/인가 시스템
-- 세션 관리 및 보안 정책 적용
 
 ### 📊 Database Management
 - **MySQL**, **PostgreSQL**, **Oracle** 쿼리 최적화
 - **인덱싱 전략** (B-Tree, TRGM 등) 적용을 통한 성능 개선
-- **Redis** 캐싱을 통한 응답 속도 향상
 - **MongoDB** NoSQL 데이터 모델링
 
 ### 🏗️ Architecture
 - **MSA (Microservices Architecture)** 설계 및 구현
 - **Eureka**, **Gateway**를 활용한 서비스 디스커버리
 - **Kafka** 메시지 큐를 통한 비동기 통신
+
+### 🚀 DevOps & CI/CD
+- **GitHub Actions**를 활용한 자동화 파이프라인 구축
+- **AWS EC2** 환경 배포 및 관리
+- **Docker** 컨테이너 기반 애플리케이션 배포
 
 ---
 
