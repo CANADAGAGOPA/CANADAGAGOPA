@@ -79,16 +79,6 @@
 
 ---
 
-## 📊 Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CANADAGAGOPA&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 - 🔥 **성능 최적화**: PostgreSQL TRGM 인덱싱
