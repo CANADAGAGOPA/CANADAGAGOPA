@@ -91,9 +91,9 @@
 
 ## 🌱 Currently Learning
 
-- 🔥 **성능 최적화**: PostgreSQL TRGM 인덱싱, 쿼리 튜닝
-- ☁️ **클라우드 배포**: AWS, Supabase
-- 🐳 **컨테이너 오케스트레이션**: Docker, Kubernetes
+- 🔥 **성능 최적화**: PostgreSQL TRGM 인덱싱
+- ☁️ **클라우드 배포**: AWS EC2, SUPABASE
+- 🐳 **컨테이너 오케스트레이션**: Docker
 - 🤖 **AI Integration**: Claude MCP를 활용한 개발 워크플로우
 
 ---
